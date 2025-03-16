@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @willyhystor
 - 👀 I’m interested in Flutter
-- 🌱 I’m currently learning Golang
 - 📫 How to reach me by email willy.astore@gmail.com
 
 <!---
